@@ -1,0 +1,42 @@
+body {  }
+
+header {  }
+	#logo {  }
+	#logo img {  }
+	nav {  }
+	nav li {  }
+	nav li a {  }
+	input.search {  }
+
+section.hero {  }
+	.heroimage {  }
+	.herocontent {  }
+	section.hero h1 {  }
+	section.hero p {  }
+	.button {  }
+	.button a {  }
+	.button:hover {  }
+
+section.features {  }
+	section.features h2 {  }
+	section.features h4 {  }
+	section.features aside {  }
+	section.features aside img {  }
+	section.features aside h3 {  }
+
+section.organize {  }
+	section.organize img, section.share img {  }
+	.organizecontent, .sharecontent {  }
+	.organizecontent h2, .sharecontent h2 {  }
+
+section.share {  }
+
+section.get {  }
+	section.get h2 {  }	
+	section.get .button {  }
+
+footer {  }
+	footer nav {  }
+	footer nav li a {  }
+	
+.container {  }
